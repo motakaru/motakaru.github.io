@@ -1,0 +1,277 @@
+#main {
+    width: 100vw;
+    height: 150vh;
+    background-color: rgb(20, 20, 20);
+}
+
+
+
+
+#nav_bar {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    background-color: rgb(255, 255, 255);
+}
+
+#top_container_main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+#top_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 90%;
+}
+
+
+
+
+
+#home_button_container {
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    height: 100%;
+}
+
+#nav_buttons_container {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    height: 100%;
+}
+
+#get_started_button_container {
+    width: 10%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+#top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 40%;
+}
+
+#middle {
+    width: 100%;
+    height: 40%;
+}
+
+#footer {
+    width: 100%;
+    height: 20%;
+}
+
+
+
+
+
+
+
+
+#home_button_logo_container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 33.333%;
+    height: 100%;
+    background-color: rgb(0, 97, 254);
+}
+
+#home_button_text_container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 66.666%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+
+#nav_buttons_left_container {
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    height: 100%;
+}
+
+#nav_buttons_right_container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 40%;
+    height: 100%;
+}
+
+#nav_buttons_divider {
+    width: 20%;
+    height: 100%;
+}
+
+#get_started_button {
+    width: 90%;
+    height: 90%;
+    background-color: rgb(0, 97, 254);
+}
+
+#top_header_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 70%;
+}
+
+#top_button_container_main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 30%;
+}
+
+#cutout_main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+#home_button_logo {
+    width: 70%;
+    height: 70%;
+}
+
+#get_started_button_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+
+#top_header {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+}
+
+#top_title {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+
+#top_desc {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+}
+
+#top_button_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+#cutout_image_container {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 100%;
+}
+
+#cutout_image {
+    width: 100%;
+    height: 100%;
+}
+
+#top_button {
+    width: 10%;
+    height: 50%;
+    background-color: rgb(0, 97, 254);
+}
+
+#top_button_text {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+.nav_button {
+    width: 25%;
+    height: 100%;
+}
+
+.nav_button_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+}
